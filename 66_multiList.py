@@ -1,6 +1,7 @@
 # -*- coding=utf-8 -*-
 
 
+
 def get_multi_list(arr):
     if arr is None or len(arr) < 1:
         return -1
